@@ -27,23 +27,23 @@ The OmniCore ecosystem is structured into specialized domains, each functioning 
 
 | Domain | Focus | Description |
 | :--- | :--- | :--- |
-| **`[ Core Runtime ]`** | **Kernel & DI** | Operational nucleus managing lifecycle, dependency injection, and centralized event orchestration. |
-| **`[ AI Engine ]`** | **Cognition** | JARVIS-type intelligence layer covering reasoning, multi-agent planning, and cognitive memory. |
-| **`[ System Integration ]`** | **OS Control** | Deep-level bridge for filesystem, terminal, and process management (OpenClaw capability style). |
-| **`[ Cybersecurity ]`** | **Protection** | AI-security framework for threat detection, behavioral analysis, and zero-trust policy enforcement. |
-| **`[ Automation ]`** | **Orchestration** | Event-driven workflow engines and autonomous task scheduling for infrastructure operations. |
-| **`[ Developer Platform ]`** | **DX & Tooling** | Smart code generation, AI coding assistants, and multi-language SDK scaffolding. |
-| **`[ Distributed Systems ]`** | **Coordination** | Edge computing, clustering, and real-time synchronization across distributed nodes. |
-| **`[ Observability ]`** | **Insights** | Intelligent logging, failure prediction, and runtime telemetry analytics. |
-| **`[ Autonomous Ops ]`** | **Self-Healing** | Autonomous scaling, smart recovery, and incident response layers for infrastructure. |
-| **`[ System Intelligence ]`** | **Knowledge** | Knowledge graphs, dependency intelligence, and architectural awareness mapping. |
-| **`[ Digital Twin ]`** | **Simulation** | Infrastructure simulation, deployment sandboxing, and scenario-based failure prediction. |
-| **`[ Cloud Infra ]`** | **Cloud Native** | Kubernetes-native orchestration, multi-cloud provisioning, and IaC automation. |
-| **`[ API Integration ]`** | **Connectivity** | API gateways, GraphQL support, and external AI connector runtimes. |
-| **`[ Data & Knowledge ]`** | **Semantic** | Vector databases, semantic search, and real-time knowledge indexing. |
-| **`[ Data Science & ML ]`** | **MLOps** | Feature engineering, predictive analytics, and model lifecycle management. |
-| **`[ Research Lab ]`** | **Experimental** | Neural architectures, quantum experiments, and future-ready runtime research. |
-| **`[ Interfaces ]`** | **Human-Machine** | Multi-modal interfaces: CLI, Voice, Desktop, and holographic visualization systems. |
+| **`Core Runtime`** | **Kernel & DI** | Operational nucleus managing lifecycle, dependency injection, and centralized event orchestration. |
+| **`AI Engine`** | **Cognition** | JARVIS-type intelligence layer covering reasoning, multi-agent planning, and cognitive memory. |
+| **`System Integration`** | **OS Control** | Deep-level bridge for filesystem, terminal, and process management (OpenClaw style). |
+| **`Cybersecurity`** | **Protection** | AI-security framework for threat detection and zero-trust policy enforcement. |
+| **`Automation`** | **Orchestration** | Event-driven workflow engines and autonomous task scheduling. |
+| **`Developer Platform`** | **DX & Tooling** | Smart code generation, AI coding assistants, and SDK scaffolding. |
+| **`Distributed Systems`** | **Coordination** | Edge computing, clustering, and real-time node synchronization. |
+| **`Observability`** | **Insights** | Intelligent logging, failure prediction, and telemetry analytics. |
+| **`Autonomous Ops`** | **Self-Healing** | Autonomous scaling, smart recovery, and incident response layers. |
+| **`System Intelligence`** | **Knowledge** | Knowledge graphs and architectural awareness mapping. |
+| **`Digital Twin`** | **Simulation** | Infrastructure simulation and deployment sandboxing. |
+| **`Cloud Infra`** | **Cloud Native** | Kubernetes orchestration and multi-cloud provisioning. |
+| **`API Integration`** | **Connectivity** | API gateways and external AI connector runtimes. |
+| **`Data & Knowledge`** | **Semantic** | Vector databases, semantic search, and knowledge indexing. |
+| **`Data Science & ML`** | **MLOps** | Feature engineering and model lifecycle management. |
+| **`Research Lab`** | **Experimental** | Neural architectures and future-ready runtime research. |
+| **`Interfaces`** | **Human-Machine** | Multi-modal interfaces: CLI, Voice, and Desktop systems. |
 
 ---
 
