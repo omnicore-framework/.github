@@ -1,6 +1,6 @@
 <div align="center">
 
-![OmniCore Framework](../img/omnicore%20framework.png)
+![OmniCore Framework](../img/portada.png)
 
 # OmniCore Framework
 ### The Cognitive Operating Ecosystem for Enterprise-Grade Intelligence
